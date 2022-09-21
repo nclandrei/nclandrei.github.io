@@ -1,0 +1,30 @@
+# Set theme
+remote_theme: daviddarnes/garth
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-paginate
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://anicolae.ro'
+baseurl: ''
+title: 'Andrei-Mihai Nicolae'
+permalink: pretty
+logo: "https://gravatar.com/avatar/717ce6277d6f8ecd6cf4f58dd077e1e0?s=136"
+
+# Pagination
+paginate: 10
+paginate_path: blog/page:num
+
+# Collections
+collections:
+  posts:
+    title: Blog
+    output: true
