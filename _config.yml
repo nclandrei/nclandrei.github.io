@@ -17,7 +17,7 @@ url: 'https://anicolae.ro'
 baseurl: ''
 title: 'Andrei-Mihai Nicolae'
 permalink: pretty
-logo: 'assets/logo.png'
+logo: '/assets/logo.png'
 
 # Pagination
 paginate: 10
