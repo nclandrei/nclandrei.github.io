@@ -12,4 +12,4 @@ Aside from programming, I like playing the piano, writing, reading, car racing, 
 
 I'm currently working remotely as a senior programmer at Carta.
 
-You can always say hi at [contact@anicolae.ro](mailto:contact@anicolae.ro)!
+You can always say hi at [hello@anicolae.ro](mailto:hello@anicolae.ro)!
