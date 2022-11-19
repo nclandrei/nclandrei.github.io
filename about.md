@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello! I'm Andrei-Mihai Nicolae, a senior programmer from Bucharest, Romania. I am primarily building web apps, with a deep passion for Clojure(script) and Ruby (on Rails).
+Hello! I'm Andrei-Mihai Nicolae, a senior programmer from Bucharest, Romania. I am primarily building web applications, with a deep passion for Clojure(script) and Ruby (on Rails).
 
 I also have extensive experience with Javascript, Go, Java, React and Angular.
 
