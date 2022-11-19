@@ -3,12 +3,11 @@ layout: page
 title: About
 ---
 
-Hello! I'm Andrei-Mihai Nicolae, a senior programmer from Bucharest, Romania. I am primarily doing web development, with 
-a deep passion for Ruby and Ruby on Rails.
+Hello! I'm Andrei-Mihai Nicolae, a senior programmer from Bucharest, Romania. I am primarily building web apps, with a deep passion for Clojure(script) and Ruby (on Rails).
 
 I also have extensive experience with Javascript, Go, Java, React and Angular.
 
-Aside from programming, I like playing the piano, writing, reading, car racing, playing tennis and football, doing carpentry and photography.
+Aside from programming, I like playing the piano, Baduk, writing, reading, playing tennis and football, doing carpentry and photography.
 
 I'm currently working remotely as a senior programmer at Carta.
 
