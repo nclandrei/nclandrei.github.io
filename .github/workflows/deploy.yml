@@ -17,6 +17,12 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
+      - name: Clean environment
+        run: |
+          rm -rf vendor
+          rm -rf _site
+          bundle clean --force
+
       - name: Build site
         run: bundle exec jekyll build
 
