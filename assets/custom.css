@@ -1,0 +1,45 @@
+/* Custom color overrides */
+:root {
+  --highlight-color: #E5C07B;  /* Nord theme yellow - softer and easier on the eyes */
+}
+
+/* Links */
+a {
+  color: var(--highlight-color);
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  color: #FFD580;  /* Soft pastel yellow for hover states */
+}
+
+/* Code highlighting */
+.typeset code {
+  background-color: rgba(229, 192, 123, 0.1);  /* Very light version of Nord yellow */
+  color: var(--highlight-color);
+}
+
+/* Selection highlight */
+::selection {
+  background-color: var(--highlight-color);
+  color: #fff;
+}
+
+/* Blockquotes */
+.typeset blockquote {
+  border-left: 0.15rem solid var(--highlight-color);
+}
+
+/* Headers */
+.typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+  color: #2C3E50;  /* Dark blue-gray for better contrast with yellow */
+}
+
+/* Navigation */
+.nav--paginator {
+  color: var(--highlight-color);
+}
+
+.item--current a {
+  color: var(--highlight-color);
+} 
