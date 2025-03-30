@@ -3,12 +3,10 @@ layout: page
 title: About
 ---
 
-Hello! I'm Andrei-Mihai Nicolae, a senior programmer from Bucharest, Romania. I am primarily building web applications, with a deep passion for Clojure(script) and Ruby (on Rails).
+My name is Andrei-Mihai Nicolae and I'm a software engineer from Bucharest, Romania. I enjoy building applications that make a real difference, whether that's helping businesses grow or improving people's lives through technology.
 
-I also have extensive experience with Javascript, Go, Java, React and Angular.
+I specialize in Ruby on Rails, React, Python, and Clojure, but I'm always eager to explore new technologies. I've also worked extensively with JavaScript, Go, Java, and Angular.
 
-Aside from programming, I love music and playing the piano, Baduk, writing, reading, playing tennis and football, doing carpentry and photography.
+I'm currently a Staff Engineer at Carta.
 
-I'm currently working remotely as a senior programmer at Carta.
-
-You can always say hi at [hello@anicolae.ro](mailto:hello@anicolae.ro)!
+I'd love to connect! Feel free to reach out at [hello@anicolae.ro](mailto:hello@anicolae.ro).
